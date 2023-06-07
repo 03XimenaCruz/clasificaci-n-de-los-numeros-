@@ -1,1 +1,1 @@
-# clasificaci-n-de-los-numeros-
+# clasificacion-de-los-numeros-
